@@ -11,105 +11,70 @@
     "name": "Texaco",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0004/5837/brand.gif?itok=mmVEK8Pn"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdD9zy6mh7sWffIvwRSh_UbzZNyK0UFv235OZhoRdnxappGZ2dQ&s"
   },
   {
     "id": 3,
     "name": "Starbucks",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032013/starbucks_2011_true_logo_0.png?itok=1avUKqJg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNejCsouNtSKUZ6fELCSpeIGXHQ_7DmMpXSMUzpMg2pNI8ckJPfw&s"
   },
   {
     "id": 4,
     "name": "GE",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/untitled-1_220.png?itok=KgNk9SlS"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWmVSSTvETP2YtlIEOTJ05Bwgve_UUXE5VEcjsdr7p_aRnD3A1w&s"
   },
   {
     "id": 5,
     "name": "Wilson",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0007/1719/brand.gif?itok=BX3hEsUN"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDeB_WOoJ0MQeghezd9_xOS8VhCmnXaZIrXFgFjDNr72Z9umJF&s"
   },
   {
     "id": 6,
     "name": "Volkswagen",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0025/4205/brand.gif?itok=kvDnZka_"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBM63_1sl7qPzUzm6MYUIwtJEQtiBHbkHFFOcnjGSs5OEQX7bxQ&s"
   },
   {
     "id": 7,
     "name": "Beats",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032012/beats_logo.jpg?itok=n0QUXCP8"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfAGQUunTXHtauPuSvqGo7QkRe2yf0T3R4MUNw_kNN-0s9Vt-a&s"
   },
   {
     "id": 8,
     "name": "Apple",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0015/7847/brand.gif?itok=LsN3DWaP"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HFYJ5aEcIA9vMlxSZqpb4-cJjTY-ed7icqrGVkYusDrrEmyS&s"
   },
   {
     "id": 9,
     "name": "Pinterest",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062012/pinterest_favicon-01.png?itok=q2_kRck8"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-xP-R2iG0eF7VZpWSRVZY6mFQ1kktUS8XmE-tR-kWFd81PkjJw&s"
   },
   {
     "id": 10,
     "name": "NBC",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082011/nbc.ai_.png?itok=LHcc4wxh"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHFQkwQJvukCrBOKm4VmOxp-Ei7CsGl6Q7hH236iByMIFNWM1RRQ&s"
   },
   {
     "id": 11,
     "name": "Twitter",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/072015/twitterlogo_55acee_1.png?itok=ftqKh6Sf"
-  },
-  {
-    "id": 12,
-    "name": "WWF",
-    "clicked": false,
-    "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0004/0698/brand.gif?itok=AOXU7GgP"
-  },
-  {
-    "id": 13,
-    "name": "Intel",
-    "clicked": false,
-    "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/122015/untitled-1_116.png?itok=iZDte5dF"
-  },
-  {
-    "id": 14,
-    "name": "Sony",
-    "clicked": false,
-    "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062015/sony.png?itok=Y-UxCzO-"
-  },
-  {
-    "id": 15,
-    "name": "Ebay",
-    "clicked": false,
-    "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102015/ebay_logo.png?itok=Aa4oyEhj"
-  },
-  {
-    "id": 16,
-    "name": "WhatsApp",
-    "clicked": false,
-    "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/whatsapp.jpg?itok=dTlsxLl4"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPqNTyb1cWi_LjsojZf7GZzxmDeO--waascoGwp_ODoMYkPIgIw&s"
   }
 ]
 
